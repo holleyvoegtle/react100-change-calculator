@@ -1,0 +1,6 @@
+# React 100 Change Calculator
+
+## 
+To continue on the road of learning React, a change calculator was created. Intially, the source code was obtained from San Diego Code School (now Creating Coding Careers) and the app.jsx was rendered. The first thing that was attempted was tackling the visual aspect of the project where Bootstrap was added to the index.html file. At the bottom of this paragraph is a link to the Heroku platform so the app can be tested out. Two cards were created. The first one has the information of "How much is due?" and "How much was receieved?" as well as a Calculate button. The second card, which is horizonally next the the first card, not only illustrates how much the total change is but is further broken down into the paper and coin tender.
+
+The code for this project relied on Setup State management where the input elements are bound to the component's state. When the user changes the input element, it changes the value in the component. Event binding was set up, as well as multiple variables. Once all the variables are set up, this.State was called for the calculations. After all of this code was in working order and the test passed, the app was exported to [Heroku](https://hvchangecalc.herokuapp.com/). 
